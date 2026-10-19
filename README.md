@@ -1,6 +1,6 @@
 # Tomorrowland Event Card 🎵
 
-Page événementielle responsive pour le festival Tomorrowland — exercice front-end réalisé dans le cadre de mon Master Brand Design (MJM Graphic Design).
+Page événementielle responsive pour le festival Tomorrowland, exercice front-end réalisé dans le cadre de mon Master Brand Design (MJM Graphic Design).
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -9,10 +9,10 @@ Page événementielle responsive pour le festival Tomorrowland — exercice fron
 ## Aperçu
 
 Une page événementielle avec :
-- **Design responsive** — 3 breakpoints (mobile, tablette, desktop)
-- **Typographie soignée** — DM Sans avec hiérarchie claire
-- **Composants UI** — bouton CTA, icône save en SVG, étoile de notation
-- **Layout Flexbox** — mise en page adaptative selon les écrans
+- **Design responsive** : 3 breakpoints (mobile, tablette, desktop)
+- **Typographie soignée** : DM Sans avec une hiérarchie claire
+- **Composants UI** : bouton CTA, icône save en SVG, étoile de notation
+- **Layout Flexbox** : mise en page qui s'adapte à chaque écran
 
 ## Structure
 
@@ -30,9 +30,9 @@ Une page événementielle avec :
 
 ## Lancer le projet
 
-Ouvrir `index.html` dans un navigateur — aucune dépendance requise.
+Ouvrir `index.html` dans un navigateur, aucune dépendance requise.
 
 ## Auteur
 
-**Jimmy Feron** — Brand Designer & UI/UX  
-[LinkedIn](https://linkedin.com/in/jimmyferon) · [Instagram](https://instagram.com/jimmy.ocks) · [X/Twitter](https://x.com/Sh0ocks)
+**Jimmy**, Brand Designer & UI/UX  
+[Portfolio](https://arcain.design) · [LinkedIn](https://www.linkedin.com/in/jimmyferon) · [Instagram](https://www.instagram.com/jimmyalps/) · [X](https://x.com/jimmyalps)
